@@ -1,1 +1,2 @@
-git checkout -b update_script
+$git add up_to_date
+$git pull
